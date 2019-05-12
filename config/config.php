@@ -3,7 +3,7 @@ ob_start();
 
 $host = "localhost";
 $dbuser = "root";
-$dbpass = "";
+$dbpass = "123456";
 $dbname = "db_inventaris";
 
 // membuat koneksi
